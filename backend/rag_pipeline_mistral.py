@@ -110,7 +110,7 @@ class RAGPipeline:
         return vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 4})
 
     def load_llm(self):
-        login("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")
+        login("hf_xxxxxxxxxxxxxxxxxxxxx")
         model_id = "microsoft/phi-2"
         tokenizer = AutoTokenizer.from_pretrained(model_id)
         model = AutoModelForCausalLM.from_pretrained(model_id)

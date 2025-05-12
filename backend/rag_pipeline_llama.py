@@ -111,7 +111,7 @@ class RAGPipeline:
 
     def load_llm(self):
         model_id = "meta-llama/Llama-3.2-3B-Instruct"
-        login("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")
+        login("hf_xxxxxxxxxxxxxxxxxxxxx")
         pipe = pipeline(
         "text-generation",
         model="meta-llama/Llama-3.2-3B-Instruct",

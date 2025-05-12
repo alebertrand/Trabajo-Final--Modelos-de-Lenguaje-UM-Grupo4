@@ -1,0 +1,16 @@
+numpy==1.24.4
+faiss-cpu==1.7.4
+langchain
+langchain-community
+transformers
+sentence-transformers
+huggingface_hub
+torch
+pdfminer.six
+pandas
+fastapi
+uvicorn
+accelerate
+streamlit
+langchain_openai
+#bitsandbytes

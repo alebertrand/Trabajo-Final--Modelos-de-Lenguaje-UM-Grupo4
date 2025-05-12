@@ -1,0 +1,37 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+
+# Logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos de configuración local
+*.local
+*.pid
+
+# Cache de Hugging Face
+.cache/
+~/.cache/huggingface/
+
+# Archivos binarios
+*.pkl
+
+# Archivos de Streamlit
+.streamlit/
+
+# Carpeta de Docker intermedia
+__pycache__/
+*.egg-info/
+
+# Otros posibles residuos
+*.ipynb_checkpoints/

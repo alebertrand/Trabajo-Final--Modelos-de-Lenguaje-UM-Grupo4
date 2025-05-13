@@ -13,7 +13,6 @@ Este proyecto implementa un sistema de Recuperación-Aumentada con Generación (
 
 
 git clone https://github.com/tu_usuario/asistente-recetas.git
-cd asistente-recetas
 
 
 2. Ejecutar el script de instalación del entorno:
